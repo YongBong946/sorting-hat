@@ -76,7 +76,7 @@ We added Text to Speech commands to make it more interactive.
 
 ## Authors
 ---
-Yong Liang
+Yong Liang https://github.com/YongBong946/sorting-hat
 
 Sam Ludwig
 
